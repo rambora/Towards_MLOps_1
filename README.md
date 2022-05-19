@@ -1,0 +1,1 @@
+A simple Git Actions demo towards the MLOps
